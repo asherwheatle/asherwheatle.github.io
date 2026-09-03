@@ -4,8 +4,7 @@
 
 ## About
 
-<!-- Replace the path below with your actual image file once added to assets/ -->
-![Professional photo of Asher Wheatle](assets/profile.jpg)
+![Professional photo of Asher Wheatle](assets/2025%20STEPUP_headshots_AsherW2.jpg)
 
 *Leveraging agentic AI tools to transform how we acquire and validate data at scale.*
 

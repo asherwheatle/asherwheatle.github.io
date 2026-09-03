@@ -25,10 +25,7 @@ I also conduct quantitative and qualitative evaluations of the model's outputs, 
 
 ## Media
 
-<!-- Add a relevant image or video below once available -->
-<!-- ![Research figure or demo](../assets/research-media.jpg) -->
-
-*Media coming soon — will be added as the project progresses.*
+![Research figure for Diffusion Mood Transfer](../assets/researchdiffusion.png)
 
 ---
 
