@@ -23,20 +23,14 @@ A research project exploring the use of diffusion models to perform mood transfe
 
 ## Relevant Coursework
 
-**Major:** <!-- Add your major here -->
+**Major:** Computer Engineering
+**Minor:** Statistics
 
-| Course Code | Course Title |
-|-------------|-------------|
-| <!-- e.g. COP3530 --> | <!-- e.g. Data Structures and Algorithms --> |
-| | |
-| | |
-| | |
-| | |
-
-<!-- Optional sections — uncomment and fill in as needed -->
-<!-- **Minor:** -->
-<!-- **Distinctions/Awards:** -->
-<!-- **Involvement:** -->
+- Signals and Signal Systems
+- Calculus 3
+- Differential Equations
+- Physics 2
+- Data Structures and Algorithms
 
 ---
 
@@ -51,19 +45,15 @@ A research project exploring the use of diffusion models to perform mood transfe
 
 ## CV/Resume
 
-<!-- Add your resume PDF to the assets/ folder -->
-[📄 Download Resume (PDF)](assets/resume.pdf)
+[Download Resume (PDF)](assets/AsherWheatleResume%20(3).pdf)
 
 ### Featured Sections
 
-**Education**
-- University of Florida — <!-- Degree, expected graduation -->
+**Research Assistant — UF Data Studio** (August 2025 – Present)
+- Built a text-conditioned music mood-editing pipeline that preserved harmonic content at 0.80 chroma cosine similarity while shifting the log-mel spectrum by 5 dB, utilizing a 21M-parameter diffusion transformer
+- Compressed 44.1 kHz spectrograms by 8x into a diffusion-ready latent by designing a convolutional autoencoder in PyTorch
 
-**Technical Skills**
-- <!-- e.g. Python, PyTorch, SQL, Git, etc. -->
-
-**Experience**
-- <!-- e.g. Research Assistant, CISE Department, UF — summarize key experience -->
-
-<!-- Optional -->
-<!-- **Contact:** email@example.com -->
+**Chief Software Engineer — BeachLens** (December 2025 – Present)
+- Created a search function for 30k+ users to find beaches, implementing typo forgiveness and semantic search, improving user retention by 30%
+- Engineered an agentic CI/CD pipeline for rules and amenities of 350+ beaches, saving onboarding time by 70% using web scraping, LangChain, and Supabase
+- Contributed to reaching Top 100 Travel apps globally in the App Store as a founding engineer
